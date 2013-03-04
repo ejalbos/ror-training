@@ -1,2 +1,2 @@
-siq_ror_training
+siq-ror-training
 ================
