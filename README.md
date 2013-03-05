@@ -24,9 +24,12 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://git-scm.com/
 - http://refcardz.dzone.com/refcardz/getting-started-git
 - https://delicious.com/matthew.mccullough/git
+- http://www.youtube.com/watch?v=o4PFDKIc2fs (A reason NOT to use Git!)
 - https://rvm.io/ - for RVM, the Ruby Version Manager
 - https://www.relishapp.com/rspec
 - http://api.rubyonrails.org/
+- https://www.virtualbox.org/
+- http://www.ubuntu.com/
 
 Editors:
 - http://www.jetbrains.com/ruby/ IDE (recommended)
@@ -40,5 +43,6 @@ Useful Gems:
 - https://github.com/plataformatec/devise
 - https://github.com/ryanb/cancan
 - http://cheat.errtheblog.com/
+- http://activeadmin.info/
 
 and many more...
