@@ -12,9 +12,15 @@ Recommended Books:
 
 Links:
 - http://rubyrogues.com/ (Podcast)
-- http://railscasts.com/
-- http://railsforzombies.org/ (free into courselet form CodeSchool)
+- http://rubyweekly.com/ A weekly latest news letter   (from Peter Cooper)
+- http://javascriptweekly.com/ (from Peter Cooper)
+- http://statuscode.org/ (from Peter Cooper)
+- http://railscasts.com/ {from Ryan Bates)
+- http://railsforzombies.org/ (free intro courselet from CodeSchool)
 - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+- http://www.codecademy.com/tracks/ruby
+- http://tryruby.org
+- https://practicingruby.com/
 - http://brakemanscanner.org/
 - http://rails-bestpractices.com/ (the site for the rails gem)
 - https://www.ruby-toolbox.com/
@@ -30,6 +36,12 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://api.rubyonrails.org/
 - https://www.virtualbox.org/
 - http://www.ubuntu.com/
+- http://rubular.com/ A Ruby regular expression editor
+- http://kidsruby.com/
+- http://twitter.github.com/bootstrap/ (A look and feel framework)
+- http://jquery.com/
+- http://sass-lang.com/
+- http://coffeescript.org/
 
 Editors:
 - http://www.jetbrains.com/ruby/ IDE (recommended)
@@ -44,5 +56,6 @@ Useful Gems:
 - https://github.com/ryanb/cancan
 - http://cheat.errtheblog.com/
 - http://activeadmin.info/
+- https://github.com/michaeldv/awesome_print
 
 and many more...
