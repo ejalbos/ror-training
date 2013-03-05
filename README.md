@@ -23,13 +23,22 @@ For seeing what gems are available and how much used
 See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://git-scm.com/
 - http://refcardz.dzone.com/refcardz/getting-started-git
+- https://delicious.com/matthew.mccullough/git
 - https://rvm.io/ - for RVM, the Ruby Version Manager
 - https://www.relishapp.com/rspec
 - http://api.rubyonrails.org/
+
+Editors:
+- http://www.jetbrains.com/ruby/ IDE (recommended)
+- http://www.activestate.com/komodo-edit IDE
+- http://www.sublimetext.com/
+- http://macromates.com/ TextMate
 
 Useful Gems:
 - https://github.com/pry/pry
 - https://github.com/binarylogic/authlogic
 - https://github.com/plataformatec/devise
 - https://github.com/ryanb/cancan
+- http://cheat.errtheblog.com/
+
 and many more...
