@@ -1,6 +1,13 @@
 siq-ror-training
 ================
 
+[ NEW ]
+See recently added files for other info.
+
+I'll be reorganizing and adding as time goes by.
+Check back often.
+
+
 Recommended Books:
 - http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0 (The 'pickaxe' book)
 - http://pragprog.com/book/ppmetr/metaprogramming-ruby
