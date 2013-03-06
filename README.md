@@ -42,6 +42,7 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://jquery.com/
 - http://sass-lang.com/
 - http://coffeescript.org/
+- http://stackoverflow.com/
 
 Editors:
 - http://www.jetbrains.com/ruby/ IDE (recommended)
@@ -57,5 +58,6 @@ Useful Gems:
 - http://cheat.errtheblog.com/
 - http://activeadmin.info/
 - https://github.com/michaeldv/awesome_print
+- http://savonrb.com/ - "Abstracting the craziness since 2009. Savon helps you talk to SOAP services in Ruby."
 
 and many more...
