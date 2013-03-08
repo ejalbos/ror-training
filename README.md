@@ -14,6 +14,7 @@ Recommended Books:
 - http://pragprog.com/book/achbd/the-rspec-book
 - http://pragprog.com/book/hwcuc/the-cucumber-book
 - http://pragprog.com/book/rails4/agile-web-development-with-rails
+- http://exceptionalruby.com/ - book by Avdi Grimm on ruby exceptions
 - http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 - http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 (includes the chapter listing numerous 'code smells')
 
@@ -50,6 +51,7 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://sass-lang.com/
 - http://coffeescript.org/
 - http://stackoverflow.com/
+- http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord
 
 Editors:
 - http://www.jetbrains.com/ruby/ IDE (recommended)
@@ -66,5 +68,8 @@ Useful Gems:
 - http://activeadmin.info/
 - https://github.com/michaeldv/awesome_print
 - http://savonrb.com/ - "Abstracting the craziness since 2009. Savon helps you talk to SOAP services in Ruby."
+- https://github.com/JEG2/highline I/O support for command line programs.
+- https://github.com/krainboltgreene/time-lord - "gives you more human like expressions for time and space math"
+Rails already has these, but if you are doing Ruby-only it's a nice addition.
 
 and many more...
