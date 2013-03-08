@@ -19,6 +19,8 @@ Recommended Books:
 - http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 (includes the chapter listing numerous 'code smells')
 
 Links:
+- https://github.com/bbatsov/ruby-style-guide
+- https://github.com/bbatsov/rails-style-guide
 - http://rubyrogues.com/ (Podcast)
 - http://rubyweekly.com/ A weekly latest news letter   (from Peter Cooper)
 - http://javascriptweekly.com/ (from Peter Cooper)
@@ -52,6 +54,12 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://coffeescript.org/
 - http://stackoverflow.com/
 - http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord
+- http://pragmaticstudio.com/ruby - Not familiar with it, but was recommended on a RubyRogues podcast
+
+Useful LinkedIn Groups:
+- RoR (Ruby on Rails) Open Source Network
+- Ruby on Rails
+- Rubyists
 
 Editors:
 - http://www.jetbrains.com/ruby/ IDE (recommended)
