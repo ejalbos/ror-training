@@ -26,6 +26,7 @@ Links:
 - http://javascriptweekly.com/ (from Peter Cooper)
 - http://statuscode.org/ (from Peter Cooper)
 - http://railscasts.com/ {from Ryan Bates)
+- http://www.rubytapas.com/ (from Avdi Grimm)
 - http://railsforzombies.org/ (free intro courselet from CodeSchool)
 - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 - http://www.codecademy.com/tracks/ruby
