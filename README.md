@@ -60,6 +60,7 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://pragmaticstudio.com/ruby - Not familiar with it, but was recommended on a RubyRogues podcast
 - http://www.confreaks.com/ - recordings of LOTS of conference talks, many Ruby/Rails
 - http://architects.dzone.com/articles/golden-rules-code - "The Golden Rules of Code Documentation"
+- http://refcardz.dzone.com/refcardz/essential-ruby
 
 Useful LinkedIn Groups:
 - RoR (Ruby on Rails) Open Source Network
