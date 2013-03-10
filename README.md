@@ -15,6 +15,8 @@ Recommended Books:
 - http://pragprog.com/book/hwcuc/the-cucumber-book
 - http://pragprog.com/book/rails4/agile-web-development-with-rails
 - http://exceptionalruby.com/ - book by Avdi Grimm on ruby exceptions
+- http://www.amazon.com/dp/0321721330 (Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz) - I've
+not yet read this my self but am hearing consistantly good things about it.
 - http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 - http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 (includes the chapter listing numerous 'code smells')
 
@@ -56,6 +58,8 @@ See "Ruby in twenty minutes" and "Ruby from other languages" in the sidebar
 - http://stackoverflow.com/
 - http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord
 - http://pragmaticstudio.com/ruby - Not familiar with it, but was recommended on a RubyRogues podcast
+- http://www.confreaks.com/ - recordings of LOTS of conference talks, many Ruby/Rails
+- http://architects.dzone.com/articles/golden-rules-code - "The Golden Rules of Code Documentation"
 
 Useful LinkedIn Groups:
 - RoR (Ruby on Rails) Open Source Network
@@ -80,5 +84,6 @@ Useful Gems:
 - https://github.com/JEG2/highline I/O support for command line programs.
 - https://github.com/krainboltgreene/time-lord - "gives you more human like expressions for time and space math"
 Rails already has these, but if you are doing Ruby-only it's a nice addition.
+- https://github.com/colszowka/simplecov (code coverage gem - for test env)
 
 and many more...
