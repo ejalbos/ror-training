@@ -16,7 +16,7 @@ Recommended Books:
 - http://pragprog.com/book/rails4/agile-web-development-with-rails
 - http://exceptionalruby.com/ - book by Avdi Grimm on ruby exceptions
 - http://www.amazon.com/dp/0321721330 (Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz) - I've
-Have started reading this and I highly recommend it. It's living up to all the good things I've heard about it.
+started reading this and I highly recommend it. It's living up to all the good things I've heard about it.
 - http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 - http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 (includes the chapter listing numerous 'code smells')
 
