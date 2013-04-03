@@ -27,7 +27,7 @@ Links:
 - http://rubyweekly.com/ A weekly latest news letter   (from Peter Cooper)
 - http://javascriptweekly.com/ (from Peter Cooper)
 - http://statuscode.org/ (from Peter Cooper)
-- http://railscasts.com/ {from Ryan Bates)
+- http://railscasts.com/ (from Ryan Bates)
 - http://www.rubytapas.com/ (from Avdi Grimm - interesting and well worth the cost)
 - http://railsforzombies.org/ (free intro courselet from CodeSchool)
 - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
